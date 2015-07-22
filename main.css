@@ -1,0 +1,20 @@
+div {
+  border: 2px solid;
+  margin: 10px;
+}
+
+.header {
+  position: relative;
+  height: 50px;
+}
+
+.body {
+  position:realative;
+  height: 450px;
+}
+.footer {
+  position: relative;
+  height:225px;
+
+
+}
